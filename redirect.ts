@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://customswebailtelstr-zsbcn.framer.website"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://xn--customwebailtelstr-zsb.framer.website"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
